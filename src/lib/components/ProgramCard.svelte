@@ -11,25 +11,25 @@
 
   const {
     name,
-    category,
     school,
-    requirements,
+    category,
+    type,
+    classes,
   }: Program = $props();
 
   const emojis = {
     'Software Engineering': SoftwareEngineerEmoji,
     'Mechanical Engineering': MechanicalEngineerEmoji,
     'Pharmacy': DoctorEmoji,
-    '(Pre-)Calculus 30': TriangularRulerEmoji,
-    'Calculus 30': TriangularRulerEmoji,
-    'Physics 30': AppleEmoji,
-    'Chemistry 30': TestTubeEmoji,
-    'Biology 30': DNAEmoji,
+    'math': TriangularRulerEmoji,
+    'physics': AppleEmoji,
+    'chemistry': TestTubeEmoji,
+    'biology': DNAEmoji,
   }
 </script>
 
 <article class='w-full max-w-sm h-max mt-16 bg-gradient-to-b from-yellow-200 to-yellow-100 rounded-md shadow-sm shadow-yellow-700/25'>
-  <p class='relative flex items-center gap-2 px-3 py-1 bg-white border-b border-yellow-300 rounded-md text-sm font-bold uppercase tracking-wide text-yellow-700'>
+  <p class='relative flex items-center gap-2 px-3 py-1 bg-white border-b border-yellow-300 rounded-md text-sm font-bold tracking-wide text-yellow-700'>
     <Wrench class='size-4 text-yellow-500' weight='fill'/>
     {category}
     {#if emojis[name]}
@@ -45,10 +45,12 @@
       <div class='grow-1 h-px bg-gradient-to-l from-yellow-500/0 to-yellow-500'></div>
     </div>
     <ul class='flex flex-wrap justify-center gap-2'>
-      {#each Object.entries(requirements) as [ key, value ] (key)}
-        <li class='flex items-center gap-1 w-max h-6 pr-2 bg-yellow-500/50 text-sm font-semibold rounded-full'>
-          <img class='size-8 -my-2' src={emojis[key]} alt={key}/>
-          {key}{value ? `: ${value}` : ''}
+      {#each classes as classItem (classItem.label)}
+        <li class={`flex items-center gap-1 w-max h-6 ${classItem.type ? 'pr-2' : 'px-2'} bg-yellow-500/50 text-sm font-semibold rounded-full`}>
+          {#if classItem.type}
+            <img class='size-8 -my-2' src={emojis[classItem.type]} alt={classItem.type}/>
+          {/if}
+          {classItem.label}
         </li>
       {/each}
     </ul>

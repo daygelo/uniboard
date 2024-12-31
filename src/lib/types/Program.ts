@@ -1,6 +1,10 @@
 export interface Program {
   name: string;
-  category: string;
   school: string;
-  requirements: { [key: string]: string };
+  category: string;
+  type: 'Certificate' | 'Bachelor\'s' | 'Master\'s' | 'Doctorate';
+  classes: {
+    label: string,
+    type?: 'math' | 'english' | 'physics' | 'chemistry' | 'biology'
+  }[];
 }

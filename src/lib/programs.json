@@ -1,33 +1,101 @@
 [
   {
+    "name": "Accounting",
+    "school": "University of Regina",
+    "category": "Business/Finance",
+    "type": "Bachelor's",
+    "classes": [
+      {
+        "label": "Foundations or Pre-Calculus 30",
+        "type": "math"
+      }
+    ]
+  },
+  {
+    "name": "Business Administration",
+    "school": "University of Regina",
+    "category": "Business/Finance",
+    "type": "Bachelor's",
+    "classes": [
+      {
+        "label": "Foundations or Pre-Calculus 30",
+        "type": "math"
+      }
+    ]
+  },
+  {
+    "name": "Finance",
+    "school": "University of Regina",
+    "category": "Business/Finance",
+    "type": "Bachelor's",
+    "classes": [
+      {
+        "label": "Foundations or Pre-Calculus 30",
+        "type": "math"
+      }
+    ]
+  },
+  {
+    "name": "Marketing",
+    "school": "University of Regina",
+    "category": "Business/Finance",
+    "type": "Bachelor's",
+    "classes": [
+      {
+        "label": "Foundations or Pre-Calculus 30",
+        "type": "math"
+      }
+    ]
+  },
+  {
     "name": "Software Engineering",
-    "category": "Engineering",
+    "category": "Engineering/Tech",
     "school": "University of Toronto",
-    "requirements": {
-      "(Pre-)Calculus 30": "",
-      "Physics 30": "",
-      "Chemistry 30": ""
-    }
+    "classes": [
+      {
+        "label": "(Pre-)Calculus 30"
+      },
+      {
+        "label": "Physics 30"
+      },
+      {
+        "label": "Chemistry 30"
+      }
+    ]
   },
   {
     "name": "Mechanical Engineering",
-    "category": "Engineering",
+    "category": "Engineering/Tech",
     "school": "University of Waterloo",
-    "requirements": {
-      "Calculus 30": "",
-      "Physics 30": "",
-      "Chemistry 30": ""
-    }
+    "classes": [
+      {
+        "label": "Calculus 30"
+      },
+      {
+        "label": "Physics 30"
+      },
+      {
+        "label": "Chemistry 30"
+      }
+    ]
   },
   {
     "name": "Pharmacy",
-    "category": "Medical",
+    "category": "Health/Medicine",
     "school": "McGill University",
-    "requirements": {
-      "Calculus 30": "",
-      "Physics 30": "",
-      "Chemistry 30": "",
-      "Biology 30": ""
-    }
+    "classes": [
+      {
+        "label": "Calculus 30"
+      },
+      {
+        "label": "Physics 30"
+      },
+      {
+        "label": "Chemistry 30"
+      },
+      {
+        "label": "Biology 30"
+      }
+    ]
   }
 ]
