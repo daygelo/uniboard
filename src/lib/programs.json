@@ -1,0 +1,33 @@
+[
+  {
+    "name": "Software Engineering",
+    "category": "Engineering",
+    "school": "University of Toronto",
+    "requirements": {
+      "(Pre-)Calculus 30": "",
+      "Physics 30": "",
+      "Chemistry 30": ""
+    }
+  },
+  {
+    "name": "Mechanical Engineering",
+    "category": "Engineering",
+    "school": "University of Waterloo",
+    "requirements": {
+      "Calculus 30": "",
+      "Physics 30": "",
+      "Chemistry 30": ""
+    }
+  },
+  {
+    "name": "Pharmacy",
+    "category": "Medical",
+    "school": "McGill University",
+    "requirements": {
+      "Calculus 30": "",
+      "Physics 30": "",
+      "Chemistry 30": "",
+      "Biology 30": ""
+    }
+  }
+]
