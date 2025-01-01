@@ -26,10 +26,49 @@
   --font-sans: 'Switzer';
   --font-serif: 'Hedvig Letters Serif';
   --font-mono: 'Monaspace Neon';
+
+  --color-primary: #000;
 }
 
 /* Thanks: https://grainy-gradients.vercel.app/ */
 @utility bg-noise {
   background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noiseFilter'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.8' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' opacity='50%25' filter='url(%23noiseFilter)'/%3E%3C/svg%3E");
   background-size: 256px 256px;
+}
+
+@utility bg-gradient-primary {
+  /*background: linear-gradient(*/
+  /*  to bottom,*/
+  /*  var(--color-yellow-200),*/
+  /*  var(--color-yellow-100)*/
+  /*);*/
+  background: linear-gradient(
+      to bottom,
+      color-mix(in lch, white, var(--color-primary) 40%),
+      color-mix(in lch, white, var(--color-primary) 20%)
+  );
+}
+
+@utility theme-engineering {
+--color-primary: var(--color-cyan-500);
+}
+
+@utility theme-health {
+--color-primary: var(--color-lime-500);
+}
+
+@utility theme-business {
+--color-primary: var(--color-blue-500);
+}
+
+@utility theme-arts {
+--color-primary: var(--color-pink-500);
+}
+
+@utility theme-social {
+--color-primary: var(--color-orange-500);
+}
+
+@utility theme-natural {
+--color-primary: var(--color-yellow-500);
 }

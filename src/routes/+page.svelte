@@ -5,16 +5,11 @@
   import MagnifyingGlass from 'phosphor-svelte/lib/MagnifyingGlass';
   import CaretDown from 'phosphor-svelte/lib/CaretDown';
   import CheckCircle from 'phosphor-svelte/lib/CheckCircle';
+  import Circle from 'phosphor-svelte/lib/Circle';
   import programs from '$lib/programs.json';
+  import categories from '$lib/categories';
 
-  const allCategories = [
-    'Engineering/Tech',
-    'Health/Medicine',
-    'Business/Finance',
-    'Arts/Humanities',
-    'Social Sciences',
-    'Natural Sciences',
-  ];
+  const categoryKeys = Object.keys(categories) as (keyof typeof categories)[];
 
   let input = $state('');
   let selectedCategories = $state<string[]>([]);
@@ -48,14 +43,18 @@
           <CaretDown class='shrink-0 size-4' weight='bold'/>
         </Select.Trigger>
         <Select.Content class='mt-1 bg-white rounded-md divide-y divide-stone-200 shadow-sm shadow-black/10 z-10'>
-          {#each allCategories as category}
+          {#each categoryKeys as category}
+            {@const Icon = categories[category].icon}
             <div class='p-1'>
               <Select.Item class='flex items-center gap-2 pl-2 pr-4 py-1 hover:bg-stone-200 rounded-sm text-sm font-bold tracking-wide select-none' value={category}>
                 {#if selectedCategories.includes(category)}
                   <CheckCircle class='size-5' weight='fill'/>
+                {:else if selectedCategories.length > 0}
+                  <Circle class='size-5 text-stone-500'/>
                 {:else}
                   <CheckCircle class='size-5 text-stone-500'/>
                 {/if}
+                <Icon class={`${categories[category].class} size-4 text-primary`} weight='fill'/>
                 {category}
               </Select.Item>
             </div>
