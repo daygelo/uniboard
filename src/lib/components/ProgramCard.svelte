@@ -5,6 +5,7 @@
   import SoftwareEngineerEmoji from '$assets/emojis/Technologist.png';
   import MechanicalEngineerEmoji from '$assets/emojis/Mechanic.png';
   import DoctorEmoji from '$assets/emojis/Doctor.png';
+  import OfficeWorkerEmoji from '$assets/emojis/Office Worker.png';
   import TriangularRulerEmoji from '$assets/emojis/Triangular Ruler.png';
   import AppleEmoji from '$assets/emojis/Apple.png';
   import TestTubeEmoji from '$assets/emojis/Test Tube.png';
@@ -15,18 +16,20 @@
     school,
     category,
     type,
+    icon,
     classes,
   }: Program = $props();
 
-  const emojis = {
-    'Software Engineering': SoftwareEngineerEmoji,
-    'Mechanical Engineering': MechanicalEngineerEmoji,
-    'Pharmacy': DoctorEmoji,
-    'math': TriangularRulerEmoji,
-    'physics': AppleEmoji,
-    'chemistry': TestTubeEmoji,
-    'biology': DNAEmoji,
-  }
+  const icons = {
+    programmer: SoftwareEngineerEmoji,
+    mechanic: MechanicalEngineerEmoji,
+    doctor: DoctorEmoji,
+    office: OfficeWorkerEmoji,
+    math: TriangularRulerEmoji,
+    physics: AppleEmoji,
+    chemistry: TestTubeEmoji,
+    biology: DNAEmoji,
+  };
 
   const { class: themeClass, icon: Icon } = categories[category];
 </script>
@@ -35,8 +38,8 @@
   <p class='relative flex items-center gap-2 px-3 py-1 bg-white border-b border-primary/50 rounded-md text-sm font-bold tracking-wide'>
     <Icon class='size-4 text-primary' weight='fill'/>
     {category}
-    {#if emojis[name]}
-      <img class='absolute -bottom-2 right-0 size-32' src={emojis[name]} alt={name}/>
+    {#if icon}
+      <img class='absolute -bottom-2 right-0 size-32' src={icons[icon]} alt={name}/>
     {/if}
   </p>
   <div class='p-6 pb-8'>
@@ -51,7 +54,7 @@
       {#each classes as classItem (classItem.label)}
         <li class={`flex items-center gap-1 w-max h-6 ${classItem.type ? 'pr-2' : 'px-2'} bg-primary/50 text-sm font-semibold rounded-full`}>
           {#if classItem.type}
-            <img class='size-8 -my-2' src={emojis[classItem.type]} alt={classItem.type}/>
+            <img class='size-8 -my-2' src={icons[classItem.type]} alt={classItem.type}/>
           {/if}
           {classItem.label}
         </li>

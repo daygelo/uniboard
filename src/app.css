@@ -23,9 +23,9 @@
 }
 
 @theme {
-  --font-sans: 'Switzer';
-  --font-serif: 'Hedvig Letters Serif';
-  --font-mono: 'Monaspace Neon';
+  --font-sans: 'Switzer', sans-serif;
+  --font-serif: 'Hedvig Letters Serif', serif;
+  --font-mono: 'Monaspace Neon', monospace;
 
   --color-primary: #000;
 }
@@ -37,11 +37,6 @@
 }
 
 @utility bg-gradient-primary {
-  /*background: linear-gradient(*/
-  /*  to bottom,*/
-  /*  var(--color-yellow-200),*/
-  /*  var(--color-yellow-100)*/
-  /*);*/
   background: linear-gradient(
       to bottom,
       color-mix(in lch, white, var(--color-primary) 40%),

@@ -4,6 +4,7 @@
     "school": "University of Regina",
     "category": "Business/Finance",
     "type": "Bachelor's",
+    "icon": "office",
     "classes": [
       {
         "label": "Foundations or Pre-Calculus 30",
@@ -16,6 +17,7 @@
     "school": "University of Regina",
     "category": "Business/Finance",
     "type": "Bachelor's",
+    "icon": "office",
     "classes": [
       {
         "label": "Foundations or Pre-Calculus 30",
@@ -28,6 +30,7 @@
     "school": "University of Regina",
     "category": "Business/Finance",
     "type": "Bachelor's",
+    "icon": "office",
     "classes": [
       {
         "label": "Foundations or Pre-Calculus 30",
@@ -40,6 +43,7 @@
     "school": "University of Regina",
     "category": "Business/Finance",
     "type": "Bachelor's",
+    "icon": "office",
     "classes": [
       {
         "label": "Foundations or Pre-Calculus 30",
@@ -51,6 +55,7 @@
     "name": "Software Engineering",
     "category": "Engineering/Tech",
     "school": "University of Toronto",
+    "icon": "programmer",
     "classes": [
       {
         "label": "(Pre-)Calculus 30"
@@ -67,6 +72,7 @@
     "name": "Mechanical Engineering",
     "category": "Engineering/Tech",
     "school": "University of Waterloo",
+    "icon": "mechanic",
     "classes": [
       {
         "label": "Calculus 30"
@@ -83,6 +89,7 @@
     "name": "Pharmacy",
     "category": "Health/Medicine",
     "school": "McGill University",
+    "icon": "doctor",
     "classes": [
       {
         "label": "Calculus 30"

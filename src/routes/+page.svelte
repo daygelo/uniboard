@@ -30,14 +30,14 @@
       <div class='flex items-center gap-2 grow pl-4 bg-white rounded-md shadow-sm shadow-black/10'>
         <MagnifyingGlass class='size-6' weight='bold'/>
         <input
-          class='w-full h-12 outline-none lg:text-lg'
+          class='w-full h-12 outline-none lg:text-xl'
           placeholder='Search programs, universities and scholarships...'
           bind:value={input}
         />
       </div>
       <Select.Root bind:value={selectedCategories} multiple>
         <Select.Trigger class='flex items-center w-60 pl-4 pr-3 bg-white rounded-md shadow-sm shadow-black/10'>
-          <span class='grow text-left text-ellipsis overflow-hidden whitespace-nowrap'>
+          <span class='grow text-left lg:text-xl text-ellipsis font-medium overflow-hidden whitespace-nowrap'>
             {selectedCategories.length > 0 ? selectedCategories.join(', ') : 'All'}
           </span>
           <CaretDown class='shrink-0 size-4' weight='bold'/>
