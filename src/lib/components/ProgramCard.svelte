@@ -20,6 +20,7 @@
     classes,
     grades,
     other,
+    sources,
   }: Program = $props();
 
   const icons = {
@@ -81,6 +82,17 @@
         {#each other as item}
           <li>
             {item}
+          </li>
+        {/each}
+      </ul>
+    {/if}
+
+    {#if sources}
+      {@render subheading('Sources')}
+      <ul class='pl-4 list-disc marker:text-primary underline'>
+        {#each sources as link}
+          <li>
+            <a href={link} target='_blank'>{link}</a>
           </li>
         {/each}
       </ul>

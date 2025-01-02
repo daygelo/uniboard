@@ -12,4 +12,5 @@ export interface Program {
   }[];
   grades?: { [key: string]: number },
   other?: string[];
+  sources?: string[];
 }
