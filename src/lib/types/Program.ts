@@ -10,4 +10,6 @@ export interface Program {
     label: string,
     type?: 'math' | 'english' | 'physics' | 'chemistry' | 'biology'
   }[];
+  grades?: { [key: string]: number },
+  other?: string[];
 }

@@ -10,6 +10,16 @@
         "label": "Foundations or Pre-Calculus 30",
         "type": "math"
       }
+    ],
+    "grades": {
+      "Minimum Average": 0.7,
+      "Competitive Average": 0.8
+    },
+    "minAverage": 0.7,
+    "compAverage": 0.8,
+    "other": [
+      "This is an other requirement",
+      "Must be awesome"
     ]
   },
   {
@@ -58,13 +68,16 @@
     "icon": "programmer",
     "classes": [
       {
-        "label": "(Pre-)Calculus 30"
+        "label": "Pre-Calculus 30",
+        "type": "math"
       },
       {
-        "label": "Physics 30"
+        "label": "Physics 30",
+        "type": "physics"
       },
       {
-        "label": "Chemistry 30"
+        "label": "Chemistry 30",
+        "type": "chemistry"
       }
     ]
   },
@@ -75,13 +88,16 @@
     "icon": "mechanic",
     "classes": [
       {
-        "label": "Calculus 30"
+        "label": "Calculus 30",
+        "type": "math"
       },
       {
-        "label": "Physics 30"
+        "label": "Physics 30",
+        "type": "physics"
       },
       {
-        "label": "Chemistry 30"
+        "label": "Chemistry 30",
+        "type": "chemistry"
       }
     ]
   },
@@ -92,16 +108,20 @@
     "icon": "doctor",
     "classes": [
       {
-        "label": "Calculus 30"
+        "label": "Calculus 30",
+        "type": "math"
       },
       {
-        "label": "Physics 30"
+        "label": "Physics 30",
+        "type": "physics"
       },
       {
-        "label": "Chemistry 30"
+        "label": "Chemistry 30",
+        "type": "chemistry"
       },
       {
-        "label": "Biology 30"
+        "label": "Biology 30",
+        "type": "biology"
       }
     ]
   }
