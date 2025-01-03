@@ -35,8 +35,8 @@
     {/if}
   </p>
   <div class='p-6 pb-8'>
-    <h2 class='text-3xl text-center font-serif'>{name}</h2>
-    <p class='text-lg text-center font-semibold'>{school}</p>
+    <h2 class='text-3xl lg:text-4xl text-center font-serif'>{name}</h2>
+    <p class='mt-1 lg:mt-2 text-lg lg:text-xl text-center'>@ <strong class='font-semibold'>{school}</strong></p>
 
     {@render subheading('Classes Required')}
     <ul class='flex flex-wrap justify-center gap-2'>
