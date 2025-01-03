@@ -1,0 +1,160 @@
+[
+  {
+    "name": "Electronic Systems Engineering",
+    "school": "University of Regina",
+    "category": "Engineering/Tech",
+    "type": "Bachelor's",
+    "icon": "mechanic",
+    "classes": [
+      {
+        "label": "(Pre-)Calculus 30",
+        "type": "math"
+      },
+      {
+        "label": "ELA A30 + B30",
+        "type": "english"
+      },
+      {
+        "label": "Chemistry 30",
+        "type": "chemistry"
+      },
+      {
+        "label": "Physics 30",
+        "type": "physics"
+      }
+    ],
+    "grades": {
+      "Minimum Average for General": 0.7,
+      "Minimum Average for Major of Choice": 0.9
+    },
+    "sources": [
+      "https://www.uregina.ca/admissions/application-guide/high-school/domestic/saskatchewan/engineering.html"
+    ]
+  },
+  {
+    "name": "Energy Systems Engineering",
+    "school": "University of Regina",
+    "category": "Engineering/Tech",
+    "type": "Bachelor's",
+    "classes": [
+      {
+        "label": "(Pre-)Calculus 30",
+        "type": "math"
+      },
+      {
+        "label": "ELA A30 + B30",
+        "type": "english"
+      },
+      {
+        "label": "Chemistry 30",
+        "type": "chemistry"
+      },
+      {
+        "label": "Physics 30",
+        "type": "physics"
+      }
+    ],
+    "grades": {
+      "Minimum Average for General": 0.7,
+      "Minimum Average for Major of Choice": 0.9
+    },
+    "sources": [
+      "https://www.uregina.ca/admissions/application-guide/high-school/domestic/saskatchewan/engineering.html"
+    ]
+  },
+  {
+    "name": "Environmental Systems Engineering",
+    "school": "University of Regina",
+    "category": "Engineering/Tech",
+    "type": "Bachelor's",
+    "classes": [
+      {
+        "label": "(Pre-)Calculus 30",
+        "type": "math"
+      },
+      {
+        "label": "ELA A30 + B30",
+        "type": "english"
+      },
+      {
+        "label": "Chemistry 30",
+        "type": "chemistry"
+      },
+      {
+        "label": "Physics 30",
+        "type": "physics"
+      }
+    ],
+    "grades": {
+      "Minimum Average for General": 0.7,
+      "Minimum Average for Major of Choice": 0.9
+    },
+    "sources": [
+      "https://www.uregina.ca/admissions/application-guide/high-school/domestic/saskatchewan/engineering.html"
+    ]
+  },
+  {
+    "name": "Industrial Systems Engineering",
+    "school": "University of Regina",
+    "category": "Engineering/Tech",
+    "type": "Bachelor's",
+    "icon": "mechanic",
+    "classes": [
+      {
+        "label": "(Pre-)Calculus 30",
+        "type": "math"
+      },
+      {
+        "label": "ELA A30 + B30",
+        "type": "english"
+      },
+      {
+        "label": "Chemistry 30",
+        "type": "chemistry"
+      },
+      {
+        "label": "Physics 30",
+        "type": "physics"
+      }
+    ],
+    "grades": {
+      "Minimum Average for General": 0.7,
+      "Minimum Average for Major of Choice": 0.9
+    },
+    "sources": [
+      "https://www.uregina.ca/admissions/application-guide/high-school/domestic/saskatchewan/engineering.html"
+    ]
+  },
+  {
+    "name": "Software Systems Engineering",
+    "school": "University of Regina",
+    "category": "Engineering/Tech",
+    "type": "Bachelor's",
+    "icon": "programmer",
+    "classes": [
+      {
+        "label": "(Pre-)Calculus 30",
+        "type": "math"
+      },
+      {
+        "label": "ELA A30 + B30",
+        "type": "english"
+      },
+      {
+        "label": "Chemistry 30",
+        "type": "chemistry"
+      },
+      {
+        "label": "Physics 30",
+        "type": "physics"
+      }
+    ],
+    "grades": {
+      "Minimum Average for General": 0.7,
+      "Minimum Average for Major of Choice": 0.9
+    },
+    "sources": [
+      "https://www.uregina.ca/admissions/application-guide/high-school/domestic/saskatchewan/engineering.html"
+    ]
+  }
+]

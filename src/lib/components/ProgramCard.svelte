@@ -6,6 +6,8 @@
   import MechanicalEngineerEmoji from '$assets/emojis/Mechanic.png';
   import DoctorEmoji from '$assets/emojis/Doctor.png';
   import OfficeWorkerEmoji from '$assets/emojis/Office Worker.png';
+  import ScientistEmoji from '$assets/emojis/Scientist.png';
+  import MemoEmoji from '$assets/emojis/Memo.png';
   import TriangularRulerEmoji from '$assets/emojis/Triangular Ruler.png';
   import AppleEmoji from '$assets/emojis/Apple.png';
   import TestTubeEmoji from '$assets/emojis/Test Tube.png';
@@ -28,6 +30,9 @@
     mechanic: MechanicalEngineerEmoji,
     doctor: DoctorEmoji,
     office: OfficeWorkerEmoji,
+    scientist: ScientistEmoji,
+
+    english: MemoEmoji,
     math: TriangularRulerEmoji,
     physics: AppleEmoji,
     chemistry: TestTubeEmoji,
@@ -71,9 +76,11 @@
 
     {#if grades}
       {@render subheading('Grades Required')}
-      {#each Object.entries(grades) as [label, value]}
-        <p class='text-center'>{label}: <strong class='text-lg'>{value * 100}%</strong></p>
-      {/each}
+      <ul class='space-y-1'>
+        {#each Object.entries(grades) as [label, value]}
+          <li class='text-center leading-tight'>{label}: <strong class='text-lg leading-tight'>{typeof value === 'number' ? `${value * 100}%` : value}</strong></li>
+        {/each}
+      </ul>
     {/if}
 
     {#if other}
@@ -89,7 +96,7 @@
 
     {#if sources}
       {@render subheading('Sources')}
-      <ul class='pl-4 list-disc marker:text-primary underline'>
+      <ul class='pl-4 list-disc marker:text-primary underline text-sm'>
         {#each sources as link}
           <li>
             <a href={link} target='_blank'>{link}</a>

@@ -6,9 +6,11 @@
   import CaretDown from 'phosphor-svelte/lib/CaretDown';
   import CheckCircle from 'phosphor-svelte/lib/CheckCircle';
   import Circle from 'phosphor-svelte/lib/Circle';
-  import programs from '$lib/programs.json';
+  import * as programsObject from '$lib/programs';
   import categories from '$lib/categories';
+  import type { Program } from '$lib/types';
 
+  const programs = (Object.values(programsObject) as Program[][]).reduce((a, x) => [...a, ...x], []);
   const categoryKeys = Object.keys(categories) as (keyof typeof categories)[];
 
   let input = $state('');

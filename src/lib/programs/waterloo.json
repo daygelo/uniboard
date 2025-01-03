@@ -1,0 +1,471 @@
+[
+  {
+    "name": "Architectural Engineering",
+    "school": "University of Waterloo",
+    "category": "Engineering/Tech",
+    "type": "Bachelor's",
+    "classes": [
+      {
+        "label": "(Pre-)Calculus 30",
+        "type": "math"
+      },
+      {
+        "label": "ELA A30 + B30",
+        "type": "english"
+      },
+      {
+        "label": "Chemistry 30",
+        "type": "chemistry"
+      },
+      {
+        "label": "Physics 30",
+        "type": "physics"
+      }
+    ],
+    "grades": {
+      "All classes listed above": 0.7,
+      "Admission Average for Individual Selection": "mid to high 80s"
+    },
+    "sources": [
+      "https://uwaterloo.ca/undergraduate-admissions/admissions/admission-requirements/architectural-eng/canada/saskatchewan/"
+    ]
+  },
+  {
+    "name": "Architecture",
+    "school": "University of Waterloo",
+    "category": "Engineering/Tech",
+    "type": "Bachelor's",
+    "classes": [
+      {
+        "label": "(Pre-)Calculus 30",
+        "type": "math"
+      },
+      {
+        "label": "ELA A30 + B30",
+        "type": "english"
+      },
+      {
+        "label": "Physics 30",
+        "type": "physics"
+      }
+    ],
+    "grades": {
+      "ELA": 0.75,
+      "All classes (other than ELA) listed above": 0.7,
+      "Admission Average for Individual Selection": "mid 80s"
+    },
+    "sources": [
+      "https://uwaterloo.ca/undergraduate-admissions/admissions/admission-requirements/architecture/canada/saskatchewan/"
+    ]
+  },
+  {
+    "name": "Biomedical Engineering",
+    "school": "University of Waterloo",
+    "category": "Engineering/Tech",
+    "type": "Bachelor's",
+    "icon": "doctor",
+    "classes": [
+      {
+        "label": "(Pre-)Calculus 30",
+        "type": "math"
+      },
+      {
+        "label": "ELA A30 + B30",
+        "type": "english"
+      },
+      {
+        "label": "Chemistry 30",
+        "type": "chemistry"
+      },
+      {
+        "label": "Physics 30",
+        "type": "physics"
+      }
+    ],
+    "grades": {
+      "All classes listed above": 0.7,
+      "Admission Average for Individual Selection": "high 80s to low 90s"
+    },
+    "sources": [
+      "https://uwaterloo.ca/undergraduate-admissions/admissions/admission-requirements/biomedical-eng/canada/saskatchewan/"
+    ]
+  },
+  {
+    "name": "Chemical Engineering",
+    "school": "University of Waterloo",
+    "category": "Engineering/Tech",
+    "type": "Bachelor's",
+    "icon": "scientist",
+    "classes": [
+      {
+        "label": "(Pre-)Calculus 30",
+        "type": "math"
+      },
+      {
+        "label": "ELA A30 + B30",
+        "type": "english"
+      },
+      {
+        "label": "Chemistry 30",
+        "type": "chemistry"
+      },
+      {
+        "label": "Physics 30",
+        "type": "physics"
+      }
+    ],
+    "grades": {
+      "All classes listed above": 0.7,
+      "Admission Average for Individual Selection": "mid to high 80s"
+    },
+    "sources": [
+      "https://uwaterloo.ca/undergraduate-admissions/admissions/admission-requirements/chemical-eng/canada/saskatchewan/"
+    ]
+  },
+  {
+    "name": "Civil Engineering",
+    "school": "University of Waterloo",
+    "category": "Engineering/Tech",
+    "type": "Bachelor's",
+    "icon": "mechanic",
+    "classes": [
+      {
+        "label": "(Pre-)Calculus 30",
+        "type": "math"
+      },
+      {
+        "label": "ELA A30 + B30",
+        "type": "english"
+      },
+      {
+        "label": "Chemistry 30",
+        "type": "chemistry"
+      },
+      {
+        "label": "Physics 30",
+        "type": "physics"
+      }
+    ],
+    "grades": {
+      "All classes listed above": 0.7,
+      "Admission Average for Individual Selection": "mid to high 80s"
+    },
+    "sources": [
+      "https://uwaterloo.ca/undergraduate-admissions/admissions/admission-requirements/civil-eng/canada/saskatchewan/"
+    ]
+  },
+  {
+    "name": "Computer Engineering",
+    "school": "University of Waterloo",
+    "category": "Engineering/Tech",
+    "type": "Bachelor's",
+    "icon": "programmer",
+    "classes": [
+      {
+        "label": "(Pre-)Calculus 30",
+        "type": "math"
+      },
+      {
+        "label": "ELA A30 + B30",
+        "type": "english"
+      },
+      {
+        "label": "Chemistry 30",
+        "type": "chemistry"
+      },
+      {
+        "label": "Physics 30",
+        "type": "physics"
+      }
+    ],
+    "grades": {
+      "All classes listed above": 0.7,
+      "Admission Average for Individual Selection": "high 80s to low 90s"
+    },
+    "sources": [
+      "https://uwaterloo.ca/undergraduate-admissions/admissions/admission-requirements/computer-eng/canada/saskatchewan/"
+    ]
+  },
+  {
+    "name": "Electrical Engineering",
+    "school": "University of Waterloo",
+    "category": "Engineering/Tech",
+    "type": "Bachelor's",
+    "classes": [
+      {
+        "label": "(Pre-)Calculus 30",
+        "type": "math"
+      },
+      {
+        "label": "ELA A30 + B30",
+        "type": "english"
+      },
+      {
+        "label": "Chemistry 30",
+        "type": "chemistry"
+      },
+      {
+        "label": "Physics 30",
+        "type": "physics"
+      }
+    ],
+    "grades": {
+      "All classes listed above": 0.7,
+      "Admission Average for Individual Selection": "high 80s to low 90s"
+    },
+    "sources": [
+      "https://uwaterloo.ca/undergraduate-admissions/admissions/admission-requirements/electrical-eng/canada/saskatchewan/"
+    ]
+  },
+  {
+    "name": "Environmental Engineering",
+    "school": "University of Waterloo",
+    "category": "Engineering/Tech",
+    "type": "Bachelor's",
+    "classes": [
+      {
+        "label": "(Pre-)Calculus 30",
+        "type": "math"
+      },
+      {
+        "label": "ELA A30 + B30",
+        "type": "english"
+      },
+      {
+        "label": "Chemistry 30",
+        "type": "chemistry"
+      },
+      {
+        "label": "Physics 30",
+        "type": "physics"
+      }
+    ],
+    "grades": {
+      "All classes listed above": 0.7,
+      "Admission Average for Individual Selection": "mid to high 80s"
+    },
+    "sources": [
+      "https://uwaterloo.ca/undergraduate-admissions/admissions/admission-requirements/environmental-eng/canada/saskatchewan/"
+    ]
+  },
+  {
+    "name": "Geological Engineering",
+    "school": "University of Waterloo",
+    "category": "Engineering/Tech",
+    "type": "Bachelor's",
+    "classes": [
+      {
+        "label": "(Pre-)Calculus 30",
+        "type": "math"
+      },
+      {
+        "label": "ELA A30 + B30",
+        "type": "english"
+      },
+      {
+        "label": "Chemistry 30",
+        "type": "chemistry"
+      },
+      {
+        "label": "Physics 30",
+        "type": "physics"
+      }
+    ],
+    "grades": {
+      "All classes listed above": 0.7,
+      "Admission Average for Individual Selection": "mid to high 80s"
+    },
+    "sources": [
+      "https://uwaterloo.ca/undergraduate-admissions/admissions/admission-requirements/geological-eng/canada/saskatchewan/"
+    ]
+  },
+  {
+    "name": "Mechanical Engineering",
+    "school": "University of Waterloo",
+    "category": "Engineering/Tech",
+    "type": "Bachelor's",
+    "icon": "mechanic",
+    "classes": [
+      {
+        "label": "(Pre-)Calculus 30",
+        "type": "math"
+      },
+      {
+        "label": "ELA A30 + B30",
+        "type": "english"
+      },
+      {
+        "label": "Chemistry 30",
+        "type": "chemistry"
+      },
+      {
+        "label": "Physics 30",
+        "type": "physics"
+      }
+    ],
+    "grades": {
+      "All classes listed above": 0.7,
+      "Admission Average for Individual Selection": "high 80s to low 90s"
+    },
+    "sources": [
+      "https://uwaterloo.ca/undergraduate-admissions/admissions/admission-requirements/mechanical-eng/canada/saskatchewan/"
+    ]
+  },
+  {
+    "name": "Mechatronics Engineering",
+    "school": "University of Waterloo",
+    "category": "Engineering/Tech",
+    "type": "Bachelor's",
+    "icon": "mechanic",
+    "classes": [
+      {
+        "label": "(Pre-)Calculus 30",
+        "type": "math"
+      },
+      {
+        "label": "ELA A30 + B30",
+        "type": "english"
+      },
+      {
+        "label": "Chemistry 30",
+        "type": "chemistry"
+      },
+      {
+        "label": "Physics 30",
+        "type": "physics"
+      }
+    ],
+    "grades": {
+      "All classes listed above": 0.7,
+      "Admission Average for Individual Selection": "high 80s to low 90s"
+    },
+    "sources": [
+      "https://uwaterloo.ca/undergraduate-admissions/admissions/admission-requirements/mechatronics-eng/canada/saskatchewan/"
+    ]
+  },
+  {
+    "name": "Management Engineering",
+    "school": "University of Waterloo",
+    "category": "Engineering/Tech",
+    "type": "Bachelor's",
+    "classes": [
+      {
+        "label": "(Pre-)Calculus 30",
+        "type": "math"
+      },
+      {
+        "label": "ELA A30 + B30",
+        "type": "english"
+      },
+      {
+        "label": "Chemistry 30",
+        "type": "chemistry"
+      },
+      {
+        "label": "Physics 30",
+        "type": "physics"
+      }
+    ],
+    "grades": {
+      "All classes listed above": 0.7,
+      "Admission Average for Individual Selection": "mid to high 80s"
+    },
+    "sources": [
+      "https://uwaterloo.ca/undergraduate-admissions/admissions/admission-requirements/management-eng/canada/saskatchewan/"
+    ]
+  },
+  {
+    "name": "Nanotechnology Engineering",
+    "school": "University of Waterloo",
+    "category": "Engineering/Tech",
+    "type": "Bachelor's",
+    "classes": [
+      {
+        "label": "(Pre-)Calculus 30",
+        "type": "math"
+      },
+      {
+        "label": "ELA A30 + B30",
+        "type": "english"
+      },
+      {
+        "label": "Chemistry 30",
+        "type": "chemistry"
+      },
+      {
+        "label": "Physics 30",
+        "type": "physics"
+      }
+    ],
+    "grades": {
+      "All classes listed above": 0.7,
+      "Admission Average for Individual Selection": "mid to high 80s"
+    },
+    "sources": [
+      "https://uwaterloo.ca/undergraduate-admissions/admissions/admission-requirements/nanotechnology-eng/canada/saskatchewan/"
+    ]
+  },
+  {
+    "name": "Software Engineering",
+    "school": "University of Waterloo",
+    "category": "Engineering/Tech",
+    "type": "Bachelor's",
+    "icon": "programmer",
+    "classes": [
+      {
+        "label": "(Pre-)Calculus 30",
+        "type": "math"
+      },
+      {
+        "label": "ELA A30 + B30",
+        "type": "english"
+      },
+      {
+        "label": "Chemistry 30",
+        "type": "chemistry"
+      },
+      {
+        "label": "Physics 30",
+        "type": "physics"
+      }
+    ],
+    "grades": {
+      "All classes listed above": 0.7,
+      "Admission Average for Individual Selection": "low to mid 90s"
+    },
+    "sources": [
+      "https://uwaterloo.ca/undergraduate-admissions/admissions/admission-requirements/software-eng/canada/saskatchewan/"
+    ]
+  },
+  {
+    "name": "Systems Design Engineering",
+    "school": "University of Waterloo",
+    "category": "Engineering/Tech",
+    "type": "Bachelor's",
+    "classes": [
+      {
+        "label": "(Pre-)Calculus 30",
+        "type": "math"
+      },
+      {
+        "label": "ELA A30 + B30",
+        "type": "english"
+      },
+      {
+        "label": "Chemistry 30",
+        "type": "chemistry"
+      },
+      {
+        "label": "Physics 30",
+        "type": "physics"
+      }
+    ],
+    "grades": {
+      "All classes listed above": 0.7,
+      "Admission Average for Individual Selection": "high 80s to low 90s"
+    },
+    "sources": [
+      "https://uwaterloo.ca/undergraduate-admissions/admissions/admission-requirements/computer-eng/canada/saskatchewan/"
+    ]
+  }
+]

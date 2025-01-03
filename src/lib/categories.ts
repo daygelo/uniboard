@@ -1,6 +1,7 @@
 import Wrench from 'phosphor-svelte/lib/Wrench';
-import Heartbeat from 'phosphor-svelte/lib/Heartbeat';
 import Bank from 'phosphor-svelte/lib/Bank';
+import ChartBar from 'phosphor-svelte/lib/ChartBar';
+import Heartbeat from 'phosphor-svelte/lib/Heartbeat';
 import BookBookmark from 'phosphor-svelte/lib/BookBookmark';
 import GlobeHemisphereWest from 'phosphor-svelte/lib/GlobeHemisphereWest';
 import Flask from 'phosphor-svelte/lib/Flask';
@@ -10,13 +11,17 @@ export default {
     icon: Wrench,
     class: 'theme-engineering'
   },
-  'Health/Medicine': {
-    icon: Heartbeat,
-    class: 'theme-health'
-  },
   'Business/Finance': {
     icon: Bank,
     class: 'theme-business'
+  },
+  'Math/Statistics': {
+    icon: ChartBar,
+    class: 'theme-math'
+  },
+  'Health/Medicine': {
+    icon: Heartbeat,
+    class: 'theme-health'
   },
   'Arts/Humanities': {
     icon: BookBookmark,
