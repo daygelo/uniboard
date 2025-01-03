@@ -1,5 +1,6 @@
 [
   {
+    "id": "regina electronic systems engineering",
     "name": "Electronic Systems Engineering",
     "school": "University of Regina",
     "category": "Engineering/Tech",
@@ -32,6 +33,7 @@
     ]
   },
   {
+    "id": "regina energy systems engineering",
     "name": "Energy Systems Engineering",
     "school": "University of Regina",
     "category": "Engineering/Tech",
@@ -63,6 +65,7 @@
     ]
   },
   {
+    "id": "regina environmental systems engineering",
     "name": "Environmental Systems Engineering",
     "school": "University of Regina",
     "category": "Engineering/Tech",
@@ -94,6 +97,7 @@
     ]
   },
   {
+    "id": "regina industrial systems engineering",
     "name": "Industrial Systems Engineering",
     "school": "University of Regina",
     "category": "Engineering/Tech",
@@ -126,6 +130,7 @@
     ]
   },
   {
+    "id": "regina software systems engineering",
     "name": "Software Systems Engineering",
     "school": "University of Regina",
     "category": "Engineering/Tech",

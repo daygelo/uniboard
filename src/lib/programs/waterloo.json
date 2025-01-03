@@ -1,5 +1,6 @@
 [
   {
+    "id": "waterloo architectural engineering",
     "name": "Architectural Engineering",
     "school": "University of Waterloo",
     "category": "Engineering/Tech",
@@ -31,6 +32,7 @@
     ]
   },
   {
+    "id": "waterloo architecture",
     "name": "Architecture",
     "school": "University of Waterloo",
     "category": "Engineering/Tech",
@@ -59,6 +61,7 @@
     ]
   },
   {
+    "id": "waterloo biomedical engineering",
     "name": "Biomedical Engineering",
     "school": "University of Waterloo",
     "category": "Engineering/Tech",
@@ -91,6 +94,7 @@
     ]
   },
   {
+    "id": "waterloo chemical engineering",
     "name": "Chemical Engineering",
     "school": "University of Waterloo",
     "category": "Engineering/Tech",
@@ -123,6 +127,7 @@
     ]
   },
   {
+    "id": "waterloo civil engineering",
     "name": "Civil Engineering",
     "school": "University of Waterloo",
     "category": "Engineering/Tech",
@@ -155,6 +160,7 @@
     ]
   },
   {
+    "id": "waterloo computer engineering",
     "name": "Computer Engineering",
     "school": "University of Waterloo",
     "category": "Engineering/Tech",
@@ -187,6 +193,7 @@
     ]
   },
   {
+    "id": "waterloo electrical engineering",
     "name": "Electrical Engineering",
     "school": "University of Waterloo",
     "category": "Engineering/Tech",
@@ -218,6 +225,7 @@
     ]
   },
   {
+    "id": "waterloo environmental engineering",
     "name": "Environmental Engineering",
     "school": "University of Waterloo",
     "category": "Engineering/Tech",
@@ -249,6 +257,7 @@
     ]
   },
   {
+    "id": "waterloo geological engineering",
     "name": "Geological Engineering",
     "school": "University of Waterloo",
     "category": "Engineering/Tech",
@@ -280,6 +289,7 @@
     ]
   },
   {
+    "id": "waterloo mechanical engineering",
     "name": "Mechanical Engineering",
     "school": "University of Waterloo",
     "category": "Engineering/Tech",
@@ -312,6 +322,7 @@
     ]
   },
   {
+    "id": "waterloo mechatronics engineering",
     "name": "Mechatronics Engineering",
     "school": "University of Waterloo",
     "category": "Engineering/Tech",
@@ -344,6 +355,7 @@
     ]
   },
   {
+    "id": "waterloo management engineering",
     "name": "Management Engineering",
     "school": "University of Waterloo",
     "category": "Engineering/Tech",
@@ -375,6 +387,7 @@
     ]
   },
   {
+    "id": "waterloo nanotechnology engineering",
     "name": "Nanotechnology Engineering",
     "school": "University of Waterloo",
     "category": "Engineering/Tech",
@@ -406,6 +419,7 @@
     ]
   },
   {
+    "id": "waterloo software engineering",
     "name": "Software Engineering",
     "school": "University of Waterloo",
     "category": "Engineering/Tech",
@@ -438,6 +452,7 @@
     ]
   },
   {
+    "id": "waterloo systems design engineering",
     "name": "Systems Design Engineering",
     "school": "University of Waterloo",
     "category": "Engineering/Tech",
