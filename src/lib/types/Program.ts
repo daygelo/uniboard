@@ -1,6 +1,7 @@
 import categories from '$lib/categories';
 
 export interface Program {
+  id: string;
   name: string;
   school: string;
   category: keyof typeof categories;

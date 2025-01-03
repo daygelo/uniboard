@@ -5,6 +5,7 @@
     "school": "University of Waterloo",
     "category": "Engineering/Tech",
     "type": "Bachelor's",
+    "icon": "construction",
     "classes": [
       {
         "label": "(Pre-)Calculus 30",
@@ -37,6 +38,7 @@
     "school": "University of Waterloo",
     "category": "Engineering/Tech",
     "type": "Bachelor's",
+    "icon": "house",
     "classes": [
       {
         "label": "(Pre-)Calculus 30",
@@ -132,7 +134,7 @@
     "school": "University of Waterloo",
     "category": "Engineering/Tech",
     "type": "Bachelor's",
-    "icon": "mechanic",
+    "icon": "construction",
     "classes": [
       {
         "label": "(Pre-)Calculus 30",
@@ -198,6 +200,7 @@
     "school": "University of Waterloo",
     "category": "Engineering/Tech",
     "type": "Bachelor's",
+    "icon": "mechanic",
     "classes": [
       {
         "label": "(Pre-)Calculus 30",
@@ -230,6 +233,7 @@
     "school": "University of Waterloo",
     "category": "Engineering/Tech",
     "type": "Bachelor's",
+    "icon": "globe",
     "classes": [
       {
         "label": "(Pre-)Calculus 30",
@@ -262,6 +266,7 @@
     "school": "University of Waterloo",
     "category": "Engineering/Tech",
     "type": "Bachelor's",
+    "icon": "volcano",
     "classes": [
       {
         "label": "(Pre-)Calculus 30",
@@ -360,6 +365,7 @@
     "school": "University of Waterloo",
     "category": "Engineering/Tech",
     "type": "Bachelor's",
+    "icon": "office",
     "classes": [
       {
         "label": "(Pre-)Calculus 30",
@@ -392,6 +398,7 @@
     "school": "University of Waterloo",
     "category": "Engineering/Tech",
     "type": "Bachelor's",
+    "icon":"microscope",
     "classes": [
       {
         "label": "(Pre-)Calculus 30",
@@ -457,6 +464,7 @@
     "school": "University of Waterloo",
     "category": "Engineering/Tech",
     "type": "Bachelor's",
+    "icon": "office",
     "classes": [
       {
         "label": "(Pre-)Calculus 30",

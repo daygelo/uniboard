@@ -1,17 +1,7 @@
 <script lang='ts'>
   import type { Program } from '$lib/types';
   import categories from '$lib/categories';
-
-  import SoftwareEngineerEmoji from '$assets/emojis/Technologist.png';
-  import MechanicalEngineerEmoji from '$assets/emojis/Mechanic.png';
-  import DoctorEmoji from '$assets/emojis/Doctor.png';
-  import OfficeWorkerEmoji from '$assets/emojis/Office Worker.png';
-  import ScientistEmoji from '$assets/emojis/Scientist.png';
-  import MemoEmoji from '$assets/emojis/Memo.png';
-  import TriangularRulerEmoji from '$assets/emojis/Triangular Ruler.png';
-  import AppleEmoji from '$assets/emojis/Apple.png';
-  import TestTubeEmoji from '$assets/emojis/Test Tube.png';
-  import DNAEmoji from '$assets/emojis/DNA.png';
+  import * as icons from '$assets/emojis';
 
   const {
     name,
@@ -24,20 +14,6 @@
     other,
     sources,
   }: Program = $props();
-
-  const icons = {
-    programmer: SoftwareEngineerEmoji,
-    mechanic: MechanicalEngineerEmoji,
-    doctor: DoctorEmoji,
-    office: OfficeWorkerEmoji,
-    scientist: ScientistEmoji,
-
-    english: MemoEmoji,
-    math: TriangularRulerEmoji,
-    physics: AppleEmoji,
-    chemistry: TestTubeEmoji,
-    biology: DNAEmoji,
-  };
 
   const { class: themeClass, icon: Icon } = categories[category];
 </script>

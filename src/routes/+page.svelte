@@ -1,4 +1,6 @@
 <script lang='ts'>
+  import { flip } from 'svelte/animate';
+  import { fade, scale } from 'svelte/transition';
   import * as JsSearch from 'js-search';
   import { Select } from 'bits-ui';
   import ProgramCard from '$lib/components/ProgramCard.svelte';
@@ -68,8 +70,10 @@
       {results.length} program{results.length !== 1 ? 's' : ''}
     </p>
     <section class='flex flex-wrap justify-center gap-8 mt-16'>
-      {#each results as program (`${program.name} ${program.school}`)}
-        <ProgramCard {...program}/>
+      {#each results as program (program.id)}
+        <div transition:fade={{ duration: 100 }} animate:flip={{ duration: 200 }}>
+          <ProgramCard {...program}/>
+        </div>
       {/each}
     </section>
   </section>

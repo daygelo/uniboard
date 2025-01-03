@@ -1,0 +1,20 @@
+export { default as programmer } from '$assets/emojis/Technologist.png';
+export { default as mechanic } from '$assets/emojis/Mechanic.png';
+export { default as doctor } from '$assets/emojis/Doctor.png';
+export { default as office } from '$assets/emojis/Office Worker.png';
+export { default as scientist } from '$assets/emojis/Scientist.png';
+export { default as welder } from '$assets/emojis/Welder.png';
+export { default as artist } from '$assets/emojis/Artist.png';
+export { default as astronaut } from '$assets/emojis/Astronaut.png';
+export { default as construction } from '$assets/emojis/Construction.png';
+export { default as judge } from '$assets/emojis/Judge.png';
+export { default as globe } from '$assets/emojis/Globe.png';
+export { default as volcano } from '$assets/emojis/Volcano.png';
+export { default as microscope } from '$assets/emojis/Microscope.png';
+export { default as house } from '$assets/emojis/House.png';
+
+export { default as english } from '$assets/emojis/Memo.png';
+export { default as math } from '$assets/emojis/Triangular Ruler.png';
+export { default as physics } from '$assets/emojis/Apple.png';
+export { default as chemistry } from '$assets/emojis/Test Tube.png';
+export { default as biology } from '$assets/emojis/DNA.png';

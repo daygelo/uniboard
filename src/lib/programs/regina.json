@@ -38,6 +38,7 @@
     "school": "University of Regina",
     "category": "Engineering/Tech",
     "type": "Bachelor's",
+    "icon": "construction",
     "classes": [
       {
         "label": "(Pre-)Calculus 30",
@@ -70,6 +71,7 @@
     "school": "University of Regina",
     "category": "Engineering/Tech",
     "type": "Bachelor's",
+    "icon": "globe",
     "classes": [
       {
         "label": "(Pre-)Calculus 30",
@@ -102,7 +104,7 @@
     "school": "University of Regina",
     "category": "Engineering/Tech",
     "type": "Bachelor's",
-    "icon": "mechanic",
+    "icon": "welder",
     "classes": [
       {
         "label": "(Pre-)Calculus 30",
