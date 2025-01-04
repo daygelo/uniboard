@@ -53,7 +53,7 @@
     </div>
     <div class='sticky top-0 z-10 flex flex-col items-center max-w-3xl -mx-2 sm:mx-auto mt-4 p-4 border border-black/10 backdrop-blur-lg rounded-b-lg'>
       <div class='flex max-sm:flex-col gap-2 w-full'>
-        <div class='flex items-center gap-2 grow w-full pl-4 bg-white rounded-md shadow-sm'>
+        <div class='flex items-center gap-2 grow pl-4 bg-white rounded-md shadow-sm'>
           <MagnifyingGlass class='size-6' weight='bold'/>
           <input
             class='w-full h-12 outline-none lg:text-xl'
@@ -62,7 +62,7 @@
           />
         </div>
         <Select.Root bind:value={selectedCategories} multiple>
-          <Select.Trigger class='flex items-center sm:w-60 min-h-10 pl-4 pr-3 bg-white rounded-md shadow-sm'>
+          <Select.Trigger class='flex items-center shrink-0 sm:w-60 min-h-10 pl-4 pr-3 bg-white rounded-md shadow-sm'>
           <span class='grow text-left lg:text-xl text-ellipsis font-medium overflow-hidden whitespace-nowrap'>
             {selectedCategories.length > 0 ? selectedCategories.join(', ') : 'All'}
           </span>
