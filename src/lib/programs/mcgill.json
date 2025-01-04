@@ -1,0 +1,290 @@
+[
+  {
+    "id": "mcgill bioengineering",
+    "name": "Bioengineering",
+    "school": "McGill University",
+    "category": "Engineering/Tech",
+    "type": "Bachelor's",
+    "icon": "doctor",
+    "classes": [
+      {
+        "label": "(Pre-)Calculus 30",
+        "type": "math"
+      },
+      {
+        "label": "ELA A30 + B30",
+        "type": "english"
+      },
+      {
+        "label": "Chemistry 30",
+        "type": "chemistry"
+      },
+      {
+        "label": "Physics 30",
+        "type": "physics"
+      }
+    ],
+    "grades": {
+      "Lowest Admitted Average in 2024": 0.965
+    },
+    "sources": [
+      "https://www.mcgill.ca/undergraduate-admissions/apply/requirements/canadian#engineering"
+    ]
+  },
+  {
+    "id": "mcgill chemical engineering",
+    "name": "Chemical Engineering",
+    "school": "McGill University",
+    "category": "Engineering/Tech",
+    "type": "Bachelor's",
+    "icon": "scientist",
+    "classes": [
+      {
+        "label": "(Pre-)Calculus 30",
+        "type": "math"
+      },
+      {
+        "label": "ELA A30 + B30",
+        "type": "english"
+      },
+      {
+        "label": "Chemistry 30",
+        "type": "chemistry"
+      },
+      {
+        "label": "Physics 30",
+        "type": "physics"
+      }
+    ],
+    "grades": {
+      "Lowest Admitted Average in 2024": 0.9
+    },
+    "sources": [
+      "https://www.mcgill.ca/undergraduate-admissions/apply/requirements/canadian#engineering"
+    ]
+  },
+  {
+    "id": "mcgill civil engineering",
+    "name": "Civil Engineering",
+    "school": "McGill University",
+    "category": "Engineering/Tech",
+    "type": "Bachelor's",
+    "icon": "construction",
+    "classes": [
+      {
+        "label": "(Pre-)Calculus 30",
+        "type": "math"
+      },
+      {
+        "label": "ELA A30 + B30",
+        "type": "english"
+      },
+      {
+        "label": "Chemistry 30",
+        "type": "chemistry"
+      },
+      {
+        "label": "Physics 30",
+        "type": "physics"
+      }
+    ],
+    "grades": {
+      "Lowest Admitted Average in 2024": 0.93
+    },
+    "sources": [
+      "https://www.mcgill.ca/undergraduate-admissions/apply/requirements/canadian#engineering"
+    ]
+  },
+  {
+    "id": "mcgill computer engineering",
+    "name": "Computer Engineering",
+    "school": "McGill University",
+    "category": "Engineering/Tech",
+    "type": "Bachelor's",
+    "icon": "programmer",
+    "classes": [
+      {
+        "label": "(Pre-)Calculus 30",
+        "type": "math"
+      },
+      {
+        "label": "ELA A30 + B30",
+        "type": "english"
+      },
+      {
+        "label": "Chemistry 30",
+        "type": "chemistry"
+      },
+      {
+        "label": "Physics 30",
+        "type": "physics"
+      }
+    ],
+    "grades": {
+      "Lowest Admitted Average in 2024": 0.965
+    },
+    "sources": [
+      "https://www.mcgill.ca/undergraduate-admissions/apply/requirements/canadian#engineering"
+    ]
+  },
+  {
+    "id": "mcgill electrical engineering",
+    "name": "Electrical Engineering",
+    "school": "McGill University",
+    "category": "Engineering/Tech",
+    "type": "Bachelor's",
+    "icon": "mechanic",
+    "classes": [
+      {
+        "label": "(Pre-)Calculus 30",
+        "type": "math"
+      },
+      {
+        "label": "ELA A30 + B30",
+        "type": "english"
+      },
+      {
+        "label": "Chemistry 30",
+        "type": "chemistry"
+      },
+      {
+        "label": "Physics 30",
+        "type": "physics"
+      }
+    ],
+    "grades": {
+      "Lowest Admitted Average in 2024": 0.96
+    },
+    "sources": [
+      "https://www.mcgill.ca/undergraduate-admissions/apply/requirements/canadian#engineering"
+    ]
+  },
+  {
+    "id": "mcgill materials engineering",
+    "name": "Materials Engineering",
+    "school": "McGill University",
+    "category": "Engineering/Tech",
+    "type": "Bachelor's",
+    "icon": "scientist",
+    "classes": [
+      {
+        "label": "(Pre-)Calculus 30",
+        "type": "math"
+      },
+      {
+        "label": "ELA A30 + B30",
+        "type": "english"
+      },
+      {
+        "label": "Chemistry 30",
+        "type": "chemistry"
+      },
+      {
+        "label": "Physics 30",
+        "type": "physics"
+      }
+    ],
+    "grades": {
+      "Lowest Admitted Average in 2024": 0.905
+    },
+    "sources": [
+      "https://www.mcgill.ca/undergraduate-admissions/apply/requirements/canadian#engineering"
+    ]
+  },
+  {
+    "id": "mcgill mechanical engineering",
+    "name": "Mechanical Engineering",
+    "school": "McGill University",
+    "category": "Engineering/Tech",
+    "type": "Bachelor's",
+    "icon": "mechanic",
+    "classes": [
+      {
+        "label": "(Pre-)Calculus 30",
+        "type": "math"
+      },
+      {
+        "label": "ELA A30 + B30",
+        "type": "english"
+      },
+      {
+        "label": "Chemistry 30",
+        "type": "chemistry"
+      },
+      {
+        "label": "Physics 30",
+        "type": "physics"
+      }
+    ],
+    "grades": {
+      "Lowest Admitted Average in 2024": 0.97
+    },
+    "sources": [
+      "https://www.mcgill.ca/undergraduate-admissions/apply/requirements/canadian#engineering"
+    ]
+  },
+  {
+    "id": "mcgill mining engineering",
+    "name": "Mining Engineering",
+    "school": "McGill University",
+    "category": "Engineering/Tech",
+    "type": "Bachelor's",
+    "icon": "pickaxe",
+    "classes": [
+      {
+        "label": "(Pre-)Calculus 30",
+        "type": "math"
+      },
+      {
+        "label": "ELA A30 + B30",
+        "type": "english"
+      },
+      {
+        "label": "Chemistry 30",
+        "type": "chemistry"
+      },
+      {
+        "label": "Physics 30",
+        "type": "physics"
+      }
+    ],
+    "grades": {
+      "Lowest Admitted Average in 2024": 0.903
+    },
+    "sources": [
+      "https://www.mcgill.ca/undergraduate-admissions/apply/requirements/canadian#engineering"
+    ]
+  },
+  {
+    "id": "mcgill software engineering",
+    "name": "Software Engineering",
+    "school": "McGill University",
+    "category": "Engineering/Tech",
+    "type": "Bachelor's",
+    "icon": "programmer",
+    "classes": [
+      {
+        "label": "(Pre-)Calculus 30",
+        "type": "math"
+      },
+      {
+        "label": "ELA A30 + B30",
+        "type": "english"
+      },
+      {
+        "label": "Chemistry 30",
+        "type": "chemistry"
+      },
+      {
+        "label": "Physics 30",
+        "type": "physics"
+      }
+    ],
+    "grades": {
+      "Lowest Admitted Average in 2024": 0.955
+    },
+    "sources": [
+      "https://www.mcgill.ca/undergraduate-admissions/apply/requirements/canadian#engineering"
+    ]
+  }
+]
