@@ -1,6 +1,6 @@
 <script lang='ts'>
   import { flip } from 'svelte/animate';
-  import { fade, scale } from 'svelte/transition';
+  import { fade } from 'svelte/transition';
   import * as JsSearch from 'js-search';
   import * as programsObject from '$lib/programs';
   import categories from '$lib/categories';
