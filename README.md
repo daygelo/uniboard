@@ -1,18 +1,10 @@
-# sv
+# Uniboard
 
-Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
+A center of information of post-secondary undergraduate programs and their admission requirements for high schoolers.
 
-## Creating a project
+## Demo
 
-If you're seeing this, you've probably already done this step. Congrats!
-
-```bash
-# create a new project in the current directory
-npx sv create
-
-# create a new project in my-app
-npx sv create my-app
-```
+You can find a demo at [https://uniboard-demo.vercel.app](https://uniboard-demo.vercel.app).
 
 ## Developing
 
