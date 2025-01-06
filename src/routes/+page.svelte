@@ -2,7 +2,7 @@
   import { flip } from 'svelte/animate';
   import { fade } from 'svelte/transition';
   import * as JsSearch from 'js-search';
-  import * as programsObject from '$lib/programs';
+  import programs from '$lib/programs';
   import categories from '$lib/categories';
   import type { Program } from '$lib/types';
 
@@ -15,7 +15,6 @@
   import Circle from 'phosphor-svelte/lib/Circle';
   import Daygineer from '$lib/components/icons/Daygineer.svelte';
 
-  const programs = (Object.values(programsObject) as Program[][]).reduce((a, x) => [...a, ...x], []);
   const categoryKeys = Object.keys(categories) as (keyof typeof categories)[];
 
   const jsSearch = new JsSearch.Search('id');

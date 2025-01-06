@@ -1,3 +1,11 @@
-export { default as regina } from './regina.json';
-export { default as waterloo } from './waterloo.json';
-export { default as mcgill } from './mcgill.json';
+import regina from './regina.json';
+import waterloo from './waterloo.json';
+import mcgill from './mcgill.json';
+import alberta from './alberta.json';
+
+export default [
+  ...regina,
+  ...waterloo,
+  ...mcgill,
+  ...alberta,
+];

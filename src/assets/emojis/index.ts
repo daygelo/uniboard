@@ -13,6 +13,7 @@ export { default as volcano } from '$assets/emojis/Volcano.png';
 export { default as microscope } from '$assets/emojis/Microscope.png';
 export { default as house } from '$assets/emojis/House.png';
 export { default as pickaxe } from '$assets/emojis/Pickaxe.png';
+export { default as oildrum } from '$assets/emojis/Oil Drum.png';
 
 export { default as english } from '$assets/emojis/Memo.png';
 export { default as math } from '$assets/emojis/Triangular Ruler.png';

@@ -1,0 +1,576 @@
+[
+  {
+    "id": "alberta first year engineering",
+    "name": "Engineering - Qualifying First Year",
+    "school": "University of Alberta",
+    "category": "Engineering/Tech",
+    "type": "Bachelor's",
+    "icon": "mechanic",
+    "classes": [
+      {
+        "label": "Calculus 30",
+        "type": "math"
+      },
+      {
+        "label": "ELA A30 + B30",
+        "type": "english"
+      },
+      {
+        "label": "Chemistry 30",
+        "type": "chemistry"
+      },
+      {
+        "label": "Physics 30",
+        "type": "physics"
+      }
+    ],
+    "grades": {
+      "All classes listed above": 0.7,
+      "Admission Average Range": "low to mid 80s"
+    },
+    "sources": [
+      "https://www.ualberta.ca/en/undergraduate-programs/bachelor-of-science-in-engineering-qualifying-year.html",
+      "https://www.ualberta.ca/en/admissions/how-to-apply/admission-requirements/competitive-requirements.html"
+    ]
+  },
+  {
+    "id": "alberta chemical engineering",
+    "name": "Chemical Engineering",
+    "school": "University of Alberta",
+    "category": "Engineering/Tech",
+    "type": "Bachelor's",
+    "icon": "scientist",
+    "classes": [
+      {
+        "label": "Calculus 30",
+        "type": "math"
+      },
+      {
+        "label": "ELA A30 + B30",
+        "type": "english"
+      },
+      {
+        "label": "Chemistry 30",
+        "type": "chemistry"
+      },
+      {
+        "label": "Physics 30",
+        "type": "physics"
+      }
+    ],
+    "grades": {
+      "All classes listed above": 0.7
+    },
+    "other": [
+      "Must complete qualifying first year of general engineering first."
+    ],
+    "sources": [
+      "https://www.ualberta.ca/en/undergraduate-programs/bachelor-of-science-in-engineering-qualifying-year.html",
+      "https://www.ualberta.ca/en/admissions/how-to-apply/admission-requirements/competitive-requirements.html"
+    ]
+  },
+  {
+    "id": "alberta chemical engineering computer process control",
+    "name": "Chemical Engineering - Computer Process Control",
+    "school": "University of Alberta",
+    "category": "Engineering/Tech",
+    "type": "Bachelor's",
+    "icon": "scientist",
+    "classes": [
+      {
+        "label": "Calculus 30",
+        "type": "math"
+      },
+      {
+        "label": "ELA A30 + B30",
+        "type": "english"
+      },
+      {
+        "label": "Chemistry 30",
+        "type": "chemistry"
+      },
+      {
+        "label": "Physics 30",
+        "type": "physics"
+      }
+    ],
+    "grades": {
+      "All classes listed above": 0.7
+    },
+    "other": [
+      "Must complete qualifying first year of general engineering first."
+    ],
+    "sources": [
+      "https://www.ualberta.ca/en/undergraduate-programs/bachelor-of-science-in-engineering-qualifying-year.html",
+      "https://www.ualberta.ca/en/admissions/how-to-apply/admission-requirements/competitive-requirements.html"
+    ]
+  },
+  {
+    "id": "alberta bioprocessing + biomanufacturing",
+    "name": "Bioprocessing + Biomanufacturing",
+    "school": "University of Alberta",
+    "category": "Engineering/Tech",
+    "type": "Bachelor's",
+    "icon": "scientist",
+    "classes": [
+      {
+        "label": "Calculus 30",
+        "type": "math"
+      },
+      {
+        "label": "ELA A30 + B30",
+        "type": "english"
+      },
+      {
+        "label": "Chemistry 30",
+        "type": "chemistry"
+      },
+      {
+        "label": "Physics 30",
+        "type": "physics"
+      }
+    ],
+    "grades": {
+      "All classes listed above": 0.7
+    },
+    "other": [
+      "Must complete qualifying first year of general engineering first."
+    ],
+    "sources": [
+      "https://www.ualberta.ca/en/undergraduate-programs/bachelor-of-science-in-engineering-qualifying-year.html",
+      "https://www.ualberta.ca/en/admissions/how-to-apply/admission-requirements/competitive-requirements.html"
+    ]
+  },
+  {
+    "id": "alberta clean energy + sustainable process systems",
+    "name": "Clean Energy + Sustainable Process Systems",
+    "school": "University of Alberta",
+    "category": "Engineering/Tech",
+    "type": "Bachelor's",
+    "icon": "scientist",
+    "classes": [
+      {
+        "label": "Calculus 30",
+        "type": "math"
+      },
+      {
+        "label": "ELA A30 + B30",
+        "type": "english"
+      },
+      {
+        "label": "Chemistry 30",
+        "type": "chemistry"
+      },
+      {
+        "label": "Physics 30",
+        "type": "physics"
+      }
+    ],
+    "grades": {
+      "All classes listed above": 0.7
+    },
+    "other": [
+      "Must complete qualifying first year of general engineering first."
+    ],
+    "sources": [
+      "https://www.ualberta.ca/en/undergraduate-programs/bachelor-of-science-in-engineering-qualifying-year.html",
+      "https://www.ualberta.ca/en/admissions/how-to-apply/admission-requirements/competitive-requirements.html"
+    ]
+  },
+  {
+    "id": "alberta civil engineering",
+    "name": "Civil Engineering",
+    "school": "University of Alberta",
+    "category": "Engineering/Tech",
+    "type": "Bachelor's",
+    "icon": "construction",
+    "classes": [
+      {
+        "label": "Calculus 30",
+        "type": "math"
+      },
+      {
+        "label": "ELA A30 + B30",
+        "type": "english"
+      },
+      {
+        "label": "Chemistry 30",
+        "type": "chemistry"
+      },
+      {
+        "label": "Physics 30",
+        "type": "physics"
+      }
+    ],
+    "grades": {
+      "All classes listed above": 0.7
+    },
+    "other": [
+      "Must complete qualifying first year of general engineering first."
+    ],
+    "sources": [
+      "https://www.ualberta.ca/en/undergraduate-programs/bachelor-of-science-in-engineering-qualifying-year.html",
+      "https://www.ualberta.ca/en/admissions/how-to-apply/admission-requirements/competitive-requirements.html"
+    ]
+  },
+  {
+    "id": "alberta nanoscale system design",
+    "name": "Nanoscale System Design",
+    "school": "University of Alberta",
+    "category": "Engineering/Tech",
+    "type": "Bachelor's",
+    "icon": "microscope",
+    "classes": [
+      {
+        "label": "Calculus 30",
+        "type": "math"
+      },
+      {
+        "label": "ELA A30 + B30",
+        "type": "english"
+      },
+      {
+        "label": "Chemistry 30",
+        "type": "chemistry"
+      },
+      {
+        "label": "Physics 30",
+        "type": "physics"
+      }
+    ],
+    "grades": {
+      "All classes listed above": 0.7
+    },
+    "other": [
+      "Must complete qualifying first year of general engineering first."
+    ],
+    "sources": [
+      "https://www.ualberta.ca/en/undergraduate-programs/bachelor-of-science-in-engineering-qualifying-year.html",
+      "https://www.ualberta.ca/en/admissions/how-to-apply/admission-requirements/competitive-requirements.html"
+    ]
+  },
+  {
+    "id": "alberta environmental engineering",
+    "name": "Environmental Engineering",
+    "school": "University of Alberta",
+    "category": "Engineering/Tech",
+    "type": "Bachelor's",
+    "icon": "globe",
+    "classes": [
+      {
+        "label": "Calculus 30",
+        "type": "math"
+      },
+      {
+        "label": "ELA A30 + B30",
+        "type": "english"
+      },
+      {
+        "label": "Chemistry 30",
+        "type": "chemistry"
+      },
+      {
+        "label": "Physics 30",
+        "type": "physics"
+      }
+    ],
+    "grades": {
+      "All classes listed above": 0.7
+    },
+    "other": [
+      "Must complete qualifying first year of general engineering first."
+    ],
+    "sources": [
+      "https://www.ualberta.ca/en/undergraduate-programs/bachelor-of-science-in-engineering-qualifying-year.html",
+      "https://www.ualberta.ca/en/admissions/how-to-apply/admission-requirements/competitive-requirements.html"
+    ]
+  },
+  {
+    "id": "alberta mining engineering",
+    "name": "Mining Engineering",
+    "school": "University of Alberta",
+    "category": "Engineering/Tech",
+    "type": "Bachelor's",
+    "icon": "pickaxe",
+    "classes": [
+      {
+        "label": "Calculus 30",
+        "type": "math"
+      },
+      {
+        "label": "ELA A30 + B30",
+        "type": "english"
+      },
+      {
+        "label": "Chemistry 30",
+        "type": "chemistry"
+      },
+      {
+        "label": "Physics 30",
+        "type": "physics"
+      }
+    ],
+    "grades": {
+      "All classes listed above": 0.7
+    },
+    "other": [
+      "Must complete qualifying first year of general engineering first."
+    ],
+    "sources": [
+      "https://www.ualberta.ca/en/undergraduate-programs/bachelor-of-science-in-engineering-qualifying-year.html",
+      "https://www.ualberta.ca/en/admissions/how-to-apply/admission-requirements/competitive-requirements.html"
+    ]
+  },
+  {
+    "id": "alberta materials engineering",
+    "name": "Materials Engineering",
+    "school": "University of Alberta",
+    "category": "Engineering/Tech",
+    "type": "Bachelor's",
+    "icon": "scientist",
+    "classes": [
+      {
+        "label": "Calculus 30",
+        "type": "math"
+      },
+      {
+        "label": "ELA A30 + B30",
+        "type": "english"
+      },
+      {
+        "label": "Chemistry 30",
+        "type": "chemistry"
+      },
+      {
+        "label": "Physics 30",
+        "type": "physics"
+      }
+    ],
+    "grades": {
+      "All classes listed above": 0.7
+    },
+    "other": [
+      "Must complete qualifying first year of general engineering first."
+    ],
+    "sources": [
+      "https://www.ualberta.ca/en/undergraduate-programs/bachelor-of-science-in-engineering-qualifying-year.html",
+      "https://www.ualberta.ca/en/admissions/how-to-apply/admission-requirements/competitive-requirements.html"
+    ]
+  },
+  {
+    "id": "alberta mechanical engineering",
+    "name": "Mechanical Engineering",
+    "school": "University of Alberta",
+    "category": "Engineering/Tech",
+    "type": "Bachelor's",
+    "icon": "mechanic",
+    "classes": [
+      {
+        "label": "Calculus 30",
+        "type": "math"
+      },
+      {
+        "label": "ELA A30 + B30",
+        "type": "english"
+      },
+      {
+        "label": "Chemistry 30",
+        "type": "chemistry"
+      },
+      {
+        "label": "Physics 30",
+        "type": "physics"
+      }
+    ],
+    "grades": {
+      "All classes listed above": 0.7
+    },
+    "other": [
+      "Must complete qualifying first year of general engineering first."
+    ],
+    "sources": [
+      "https://www.ualberta.ca/en/undergraduate-programs/bachelor-of-science-in-engineering-qualifying-year.html",
+      "https://www.ualberta.ca/en/admissions/how-to-apply/admission-requirements/competitive-requirements.html"
+    ]
+  },
+  {
+    "id": "alberta nanoengineering",
+    "name": "Nanoengineering",
+    "school": "University of Alberta",
+    "category": "Engineering/Tech",
+    "type": "Bachelor's",
+    "icon": "microscope",
+    "classes": [
+      {
+        "label": "Calculus 30",
+        "type": "math"
+      },
+      {
+        "label": "ELA A30 + B30",
+        "type": "english"
+      },
+      {
+        "label": "Chemistry 30",
+        "type": "chemistry"
+      },
+      {
+        "label": "Physics 30",
+        "type": "physics"
+      }
+    ],
+    "grades": {
+      "All classes listed above": 0.7
+    },
+    "other": [
+      "Must complete qualifying first year of general engineering first."
+    ],
+    "sources": [
+      "https://www.ualberta.ca/en/undergraduate-programs/bachelor-of-science-in-engineering-qualifying-year.html",
+      "https://www.ualberta.ca/en/admissions/how-to-apply/admission-requirements/competitive-requirements.html"
+    ]
+  },
+  {
+    "id": "alberta computer engineering",
+    "name": "Computer Engineering",
+    "school": "University of Alberta",
+    "category": "Engineering/Tech",
+    "type": "Bachelor's",
+    "icon": "programmer",
+    "classes": [
+      {
+        "label": "Calculus 30",
+        "type": "math"
+      },
+      {
+        "label": "ELA A30 + B30",
+        "type": "english"
+      },
+      {
+        "label": "Chemistry 30",
+        "type": "chemistry"
+      },
+      {
+        "label": "Physics 30",
+        "type": "physics"
+      }
+    ],
+    "grades": {
+      "All classes listed above": 0.7
+    },
+    "other": [
+      "Must complete qualifying first year of general engineering first."
+    ],
+    "sources": [
+      "https://www.ualberta.ca/en/undergraduate-programs/bachelor-of-science-in-engineering-qualifying-year.html",
+      "https://www.ualberta.ca/en/admissions/how-to-apply/admission-requirements/competitive-requirements.html"
+    ]
+  },
+  {
+    "id": "alberta electrical engineering",
+    "name": "Electrical Engineering",
+    "school": "University of Alberta",
+    "category": "Engineering/Tech",
+    "type": "Bachelor's",
+    "icon": "mechanic",
+    "classes": [
+      {
+        "label": "Calculus 30",
+        "type": "math"
+      },
+      {
+        "label": "ELA A30 + B30",
+        "type": "english"
+      },
+      {
+        "label": "Chemistry 30",
+        "type": "chemistry"
+      },
+      {
+        "label": "Physics 30",
+        "type": "physics"
+      }
+    ],
+    "grades": {
+      "All classes listed above": 0.7
+    },
+    "other": [
+      "Must complete qualifying first year of general engineering first."
+    ],
+    "sources": [
+      "https://www.ualberta.ca/en/undergraduate-programs/bachelor-of-science-in-engineering-qualifying-year.html",
+      "https://www.ualberta.ca/en/admissions/how-to-apply/admission-requirements/competitive-requirements.html"
+    ]
+  },
+  {
+    "id": "alberta engineering physics",
+    "name": "Engineering Physics",
+    "school": "University of Alberta",
+    "category": "Engineering/Tech",
+    "type": "Bachelor's",
+    "icon": "mechanic",
+    "classes": [
+      {
+        "label": "Calculus 30",
+        "type": "math"
+      },
+      {
+        "label": "ELA A30 + B30",
+        "type": "english"
+      },
+      {
+        "label": "Chemistry 30",
+        "type": "chemistry"
+      },
+      {
+        "label": "Physics 30",
+        "type": "physics"
+      }
+    ],
+    "grades": {
+      "All classes listed above": 0.7
+    },
+    "other": [
+      "Must complete qualifying first year of general engineering first."
+    ],
+    "sources": [
+      "https://www.ualberta.ca/en/undergraduate-programs/bachelor-of-science-in-engineering-qualifying-year.html",
+      "https://www.ualberta.ca/en/admissions/how-to-apply/admission-requirements/competitive-requirements.html"
+    ]
+  },
+  {
+    "id": "alberta petroleum engineering",
+    "name": "Petroleum Engineering",
+    "school": "University of Alberta",
+    "category": "Engineering/Tech",
+    "type": "Bachelor's",
+    "icon": "oildrum",
+    "classes": [
+      {
+        "label": "Calculus 30",
+        "type": "math"
+      },
+      {
+        "label": "ELA A30 + B30",
+        "type": "english"
+      },
+      {
+        "label": "Chemistry 30",
+        "type": "chemistry"
+      },
+      {
+        "label": "Physics 30",
+        "type": "physics"
+      }
+    ],
+    "grades": {
+      "All classes listed above": 0.7
+    },
+    "other": [
+      "Must complete qualifying first year of general engineering first."
+    ],
+    "sources": [
+      "https://www.ualberta.ca/en/undergraduate-programs/bachelor-of-science-in-engineering-qualifying-year.html",
+      "https://www.ualberta.ca/en/admissions/how-to-apply/admission-requirements/competitive-requirements.html"
+    ]
+  }
+]
