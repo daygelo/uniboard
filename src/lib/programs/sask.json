@@ -1,0 +1,233 @@
+[
+  {
+    "id": "sask chemical engineering",
+    "name": "Chemical Engineering",
+    "school": "University of Saskatchewan",
+    "category": "Engineering/Tech",
+    "type": "Bachelor's",
+    "icon": "scientist",
+    "classes": [
+      {
+        "label": "(Pre-)Calculus 30",
+        "type": "math"
+      },
+      {
+        "label": "ELA A30 + B30",
+        "type": "english"
+      },
+      {
+        "label": "Chemistry 30",
+        "type": "chemistry"
+      },
+      {
+        "label": "Physics 30",
+        "type": "physics"
+      }
+    ],
+    "grades": {
+      "All classes listed above": 0.7,
+      "Minimum Admission Average": 0.75
+    },
+    "sources": [
+      "https://admissions.usask.ca/chemical-engineering.php#Admissionrequirementsanddeadlines"
+    ]
+  },
+  {
+    "id": "sask civil engineering",
+    "name": "Civil Engineering",
+    "school": "University of Saskatchewan",
+    "category": "Engineering/Tech",
+    "type": "Bachelor's",
+    "icon": "construction",
+    "classes": [
+      {
+        "label": "(Pre-)Calculus 30",
+        "type": "math"
+      },
+      {
+        "label": "ELA A30 + B30",
+        "type": "english"
+      },
+      {
+        "label": "Chemistry 30",
+        "type": "chemistry"
+      },
+      {
+        "label": "Physics 30",
+        "type": "physics"
+      }
+    ],
+    "grades": {
+      "All classes listed above": 0.7,
+      "Minimum Admission Average": 0.75
+    },
+    "sources": [
+      "https://admissions.usask.ca/civil-engineering.php#Admissionrequirementsanddeadlines"
+    ]
+  },
+  {
+    "id": "sask computer engineering",
+    "name": "Computer Engineering",
+    "school": "University of Saskatchewan",
+    "category": "Engineering/Tech",
+    "type": "Bachelor's",
+    "icon": "programmer",
+    "classes": [
+      {
+        "label": "(Pre-)Calculus 30",
+        "type": "math"
+      },
+      {
+        "label": "ELA A30 + B30",
+        "type": "english"
+      },
+      {
+        "label": "Chemistry 30",
+        "type": "chemistry"
+      },
+      {
+        "label": "Physics 30",
+        "type": "physics"
+      }
+    ],
+    "grades": {
+      "All classes listed above": 0.7,
+      "Minimum Admission Average": 0.75
+    },
+    "sources": [
+      "https://admissions.usask.ca/computer-engineering.php#Admissionrequirementsanddeadlines"
+    ]
+  },
+  {
+    "id": "sask electrical engineering",
+    "name": "Electrical Engineering",
+    "school": "University of Saskatchewan",
+    "category": "Engineering/Tech",
+    "type": "Bachelor's",
+    "icon": "mechanic",
+    "classes": [
+      {
+        "label": "(Pre-)Calculus 30",
+        "type": "math"
+      },
+      {
+        "label": "ELA A30 + B30",
+        "type": "english"
+      },
+      {
+        "label": "Chemistry 30",
+        "type": "chemistry"
+      },
+      {
+        "label": "Physics 30",
+        "type": "physics"
+      }
+    ],
+    "grades": {
+      "All classes listed above": 0.7,
+      "Minimum Admission Average": 0.75
+    },
+    "sources": [
+      "https://admissions.usask.ca/electrical-engineering.php#Admissionrequirementsanddeadlines"
+    ]
+  },
+  {
+    "id": "sask environmental engineering",
+    "name": "Environmental Engineering",
+    "school": "University of Saskatchewan",
+    "category": "Engineering/Tech",
+    "type": "Bachelor's",
+    "icon": "globe",
+    "classes": [
+      {
+        "label": "(Pre-)Calculus 30",
+        "type": "math"
+      },
+      {
+        "label": "ELA A30 + B30",
+        "type": "english"
+      },
+      {
+        "label": "Chemistry 30",
+        "type": "chemistry"
+      },
+      {
+        "label": "Physics 30",
+        "type": "physics"
+      }
+    ],
+    "grades": {
+      "All classes listed above": 0.7,
+      "Minimum Admission Average": 0.75
+    },
+    "sources": [
+      "https://admissions.usask.ca/environmental-engineering.php#Admissionrequirementsanddeadlines"
+    ]
+  },
+  {
+    "id": "sask geological engineering",
+    "name": "Geological Engineering",
+    "school": "University of Saskatchewan",
+    "category": "Engineering/Tech",
+    "type": "Bachelor's",
+    "icon": "volcano",
+    "classes": [
+      {
+        "label": "(Pre-)Calculus 30",
+        "type": "math"
+      },
+      {
+        "label": "ELA A30 + B30",
+        "type": "english"
+      },
+      {
+        "label": "Chemistry 30",
+        "type": "chemistry"
+      },
+      {
+        "label": "Physics 30",
+        "type": "physics"
+      }
+    ],
+    "grades": {
+      "All classes listed above": 0.7,
+      "Minimum Admission Average": 0.75
+    },
+    "sources": [
+      "https://admissions.usask.ca/geological-engineering.php#Admissionrequirementsanddeadlines"
+    ]
+  },
+  {
+    "id": "sask mechanical engineering",
+    "name": "Mechanical Engineering",
+    "school": "University of Saskatchewan",
+    "category": "Engineering/Tech",
+    "type": "Bachelor's",
+    "icon": "mechanic",
+    "classes": [
+      {
+        "label": "(Pre-)Calculus 30",
+        "type": "math"
+      },
+      {
+        "label": "ELA A30 + B30",
+        "type": "english"
+      },
+      {
+        "label": "Chemistry 30",
+        "type": "chemistry"
+      },
+      {
+        "label": "Physics 30",
+        "type": "physics"
+      }
+    ],
+    "grades": {
+      "All classes listed above": 0.7,
+      "Minimum Admission Average": 0.75
+    },
+    "sources": [
+      "https://admissions.usask.ca/mechanical-engineering.php#Admissionrequirementsanddeadlines"
+    ]
+  }
+]

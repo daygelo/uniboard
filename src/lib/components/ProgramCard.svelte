@@ -74,7 +74,7 @@
       {@render subheading('Sources')}
       <ul class='pl-4 list-disc marker:text-primary underline text-sm'>
         {#each sources as link}
-          <li>
+          <li class='break-words'>
             <a href={link} target='_blank'>{link}</a>
           </li>
         {/each}
