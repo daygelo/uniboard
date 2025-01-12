@@ -394,6 +394,43 @@
     ]
   },
   {
+    "id": "alberta mechatronics engineering",
+    "name": "Mechatronics Engineering",
+    "school": "University of Alberta",
+    "category": "Engineering/Tech",
+    "type": "Bachelor's",
+    "icon": "mechanic",
+    "classes": [
+      {
+        "label": "Calculus 30",
+        "type": "math"
+      },
+      {
+        "label": "ELA A30 + B30",
+        "type": "english"
+      },
+      {
+        "label": "Chemistry 30",
+        "type": "chemistry"
+      },
+      {
+        "label": "Physics 30",
+        "type": "physics"
+      }
+    ],
+    "grades": {
+      "All classes listed above": 0.7
+    },
+    "other": [
+      "Must complete qualifying first year of general engineering first."
+    ],
+    "sources": [
+      "https://www.ualberta.ca/en/folio/2024/09/new-mechatronics-robotics-engineering-program.html",
+      "https://www.ualberta.ca/en/undergraduate-programs/bachelor-of-science-in-engineering-qualifying-year.html",
+      "https://www.ualberta.ca/en/admissions/how-to-apply/admission-requirements/competitive-requirements.html"
+    ]
+  },
+  {
     "id": "alberta nanoengineering",
     "name": "Nanoengineering",
     "school": "University of Alberta",
