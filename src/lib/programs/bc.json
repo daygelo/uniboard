@@ -1,0 +1,539 @@
+[
+  {
+    "id": "bc first year engineering",
+    "name": "Engineering - Foundation Year",
+    "school": "University of British Columbia",
+    "category": "Engineering/Tech",
+    "type": "Bachelor's",
+    "icon": "mechanic",
+    "classes": [
+      {
+        "label": "(Pre-)Calculus 30",
+        "type": "math"
+      },
+      {
+        "label": "ELA A30 + B30",
+        "type": "english"
+      },
+      {
+        "label": "Chemistry 30",
+        "type": "chemistry"
+      },
+      {
+        "label": "Physics 30",
+        "type": "physics"
+      }
+    ],
+    "grades": {
+      "All classes listed above": 0.7
+    },
+    "sources": [
+      "https://engineering.ubc.ca/programs/undergraduate/foundation-year",
+      "https://you.ubc.ca/applying-ubc/requirements/canadian-high-schools/#saskatchewan"
+    ]
+  },
+  {
+    "id": "bc biomedical engineering",
+    "name": "Biomedical Engineering",
+    "school": "University of British Columbia",
+    "category": "Engineering/Tech",
+    "type": "Bachelor's",
+    "icon": "doctor",
+    "classes": [
+      {
+        "label": "(Pre-)Calculus 30",
+        "type": "math"
+      },
+      {
+        "label": "ELA A30 + B30",
+        "type": "english"
+      },
+      {
+        "label": "Chemistry 30",
+        "type": "chemistry"
+      },
+      {
+        "label": "Physics 30",
+        "type": "physics"
+      }
+    ],
+    "grades": {
+      "All classes listed above": 0.7
+    },
+    "other": [
+      "Must complete foundational first year of general engineering first."
+    ],
+    "sources": [
+      "https://engineering.ubc.ca/programs/undergraduate/biomedical-engineering",
+      "https://you.ubc.ca/applying-ubc/requirements/canadian-high-schools/#saskatchewan"
+    ]
+  },
+  {
+    "id": "bc chemical engineering",
+    "name": "Chemical Engineering",
+    "school": "University of British Columbia",
+    "category": "Engineering/Tech",
+    "type": "Bachelor's",
+    "icon": "scientist",
+    "classes": [
+      {
+        "label": "(Pre-)Calculus 30",
+        "type": "math"
+      },
+      {
+        "label": "ELA A30 + B30",
+        "type": "english"
+      },
+      {
+        "label": "Chemistry 30",
+        "type": "chemistry"
+      },
+      {
+        "label": "Physics 30",
+        "type": "physics"
+      }
+    ],
+    "grades": {
+      "All classes listed above": 0.7
+    },
+    "other": [
+      "Must complete foundational first year of general engineering first."
+    ],
+    "sources": [
+      "https://engineering.ubc.ca/programs/undergraduate/chemical-engineering",
+      "https://you.ubc.ca/applying-ubc/requirements/canadian-high-schools/#saskatchewan"
+    ]
+  },
+  {
+    "id": "bc chemical and biological engineering",
+    "name": "Chemical and Biological Engineering",
+    "school": "University of British Columbia",
+    "category": "Engineering/Tech",
+    "type": "Bachelor's",
+    "icon": "scientist",
+    "classes": [
+      {
+        "label": "(Pre-)Calculus 30",
+        "type": "math"
+      },
+      {
+        "label": "ELA A30 + B30",
+        "type": "english"
+      },
+      {
+        "label": "Chemistry 30",
+        "type": "chemistry"
+      },
+      {
+        "label": "Physics 30",
+        "type": "physics"
+      }
+    ],
+    "grades": {
+      "All classes listed above": 0.7
+    },
+    "other": [
+      "Must complete foundational first year of general engineering first."
+    ],
+    "sources": [
+      "https://engineering.ubc.ca/programs/undergraduate/chemical-and-biological-engineering",
+      "https://you.ubc.ca/applying-ubc/requirements/canadian-high-schools/#saskatchewan"
+    ]
+  },
+  {
+    "id": "bc civil engineering",
+    "name": "Civil Engineering",
+    "school": "University of British Columbia",
+    "category": "Engineering/Tech",
+    "type": "Bachelor's",
+    "icon": "construction",
+    "classes": [
+      {
+        "label": "(Pre-)Calculus 30",
+        "type": "math"
+      },
+      {
+        "label": "ELA A30 + B30",
+        "type": "english"
+      },
+      {
+        "label": "Chemistry 30",
+        "type": "chemistry"
+      },
+      {
+        "label": "Physics 30",
+        "type": "physics"
+      }
+    ],
+    "grades": {
+      "All classes listed above": 0.7
+    },
+    "other": [
+      "Must complete foundational first year of general engineering first."
+    ],
+    "sources": [
+      "https://engineering.ubc.ca/programs/undergraduate/civil-engineering",
+      "https://you.ubc.ca/applying-ubc/requirements/canadian-high-schools/#saskatchewan"
+    ]
+  },
+  {
+    "id": "bc computer engineering",
+    "name": "Computer Engineering",
+    "school": "University of British Columbia",
+    "category": "Engineering/Tech",
+    "type": "Bachelor's",
+    "icon": "programmer",
+    "classes": [
+      {
+        "label": "(Pre-)Calculus 30",
+        "type": "math"
+      },
+      {
+        "label": "ELA A30 + B30",
+        "type": "english"
+      },
+      {
+        "label": "Chemistry 30",
+        "type": "chemistry"
+      },
+      {
+        "label": "Physics 30",
+        "type": "physics"
+      }
+    ],
+    "grades": {
+      "All classes listed above": 0.7
+    },
+    "other": [
+      "Must complete foundational first year of general engineering first."
+    ],
+    "sources": [
+      "https://engineering.ubc.ca/programs/undergraduate/computer-engineering",
+      "https://you.ubc.ca/applying-ubc/requirements/canadian-high-schools/#saskatchewan"
+    ]
+  },
+  {
+    "id": "bc electrical engineering",
+    "name": "Electrical Engineering",
+    "school": "University of British Columbia",
+    "category": "Engineering/Tech",
+    "type": "Bachelor's",
+    "icon": "mechanic",
+    "classes": [
+      {
+        "label": "(Pre-)Calculus 30",
+        "type": "math"
+      },
+      {
+        "label": "ELA A30 + B30",
+        "type": "english"
+      },
+      {
+        "label": "Chemistry 30",
+        "type": "chemistry"
+      },
+      {
+        "label": "Physics 30",
+        "type": "physics"
+      }
+    ],
+    "grades": {
+      "All classes listed above": 0.7
+    },
+    "other": [
+      "Must complete foundational first year of general engineering first."
+    ],
+    "sources": [
+      "https://engineering.ubc.ca/programs/undergraduate/electrical-engineering",
+      "https://you.ubc.ca/applying-ubc/requirements/canadian-high-schools/#saskatchewan"
+    ]
+  },
+  {
+    "id": "bc engineering physics",
+    "name": "Engineering Physics",
+    "school": "University of British Columbia",
+    "category": "Engineering/Tech",
+    "type": "Bachelor's",
+    "icon": "mechanic",
+    "classes": [
+      {
+        "label": "(Pre-)Calculus 30",
+        "type": "math"
+      },
+      {
+        "label": "ELA A30 + B30",
+        "type": "english"
+      },
+      {
+        "label": "Chemistry 30",
+        "type": "chemistry"
+      },
+      {
+        "label": "Physics 30",
+        "type": "physics"
+      }
+    ],
+    "grades": {
+      "All classes listed above": 0.7
+    },
+    "other": [
+      "Must complete foundational first year of general engineering first."
+    ],
+    "sources": [
+      "https://engineering.ubc.ca/programs/undergraduate/engineering-physics",
+      "https://you.ubc.ca/applying-ubc/requirements/canadian-high-schools/#saskatchewan"
+    ]
+  },
+  {
+    "id": "bc environmental engineering",
+    "name": "Environmental Engineering",
+    "school": "University of British Columbia",
+    "category": "Engineering/Tech",
+    "type": "Bachelor's",
+    "icon": "globe",
+    "classes": [
+      {
+        "label": "(Pre-)Calculus 30",
+        "type": "math"
+      },
+      {
+        "label": "ELA A30 + B30",
+        "type": "english"
+      },
+      {
+        "label": "Chemistry 30",
+        "type": "chemistry"
+      },
+      {
+        "label": "Physics 30",
+        "type": "physics"
+      }
+    ],
+    "grades": {
+      "All classes listed above": 0.7
+    },
+    "other": [
+      "Must complete foundational first year of general engineering first."
+    ],
+    "sources": [
+      "https://engineering.ubc.ca/programs/undergraduate/environmental-engineering",
+      "https://you.ubc.ca/applying-ubc/requirements/canadian-high-schools/#saskatchewan"
+    ]
+  },
+  {
+    "id": "bc geological engineering",
+    "name": "Geological Engineering",
+    "school": "University of British Columbia",
+    "category": "Engineering/Tech",
+    "type": "Bachelor's",
+    "icon": "volcano",
+    "classes": [
+      {
+        "label": "(Pre-)Calculus 30",
+        "type": "math"
+      },
+      {
+        "label": "ELA A30 + B30",
+        "type": "english"
+      },
+      {
+        "label": "Chemistry 30",
+        "type": "chemistry"
+      },
+      {
+        "label": "Physics 30",
+        "type": "physics"
+      }
+    ],
+    "grades": {
+      "All classes listed above": 0.7
+    },
+    "other": [
+      "Must complete foundational first year of general engineering first."
+    ],
+    "sources": [
+      "https://engineering.ubc.ca/programs/undergraduate/geological-engineering",
+      "https://you.ubc.ca/applying-ubc/requirements/canadian-high-schools/#saskatchewan"
+    ]
+  },
+  {
+    "id": "bc integrated engineering",
+    "name": "Integrated Engineering",
+    "school": "University of British Columbia",
+    "category": "Engineering/Tech",
+    "type": "Bachelor's",
+    "icon": "mechanic",
+    "classes": [
+      {
+        "label": "(Pre-)Calculus 30",
+        "type": "math"
+      },
+      {
+        "label": "ELA A30 + B30",
+        "type": "english"
+      },
+      {
+        "label": "Chemistry 30",
+        "type": "chemistry"
+      },
+      {
+        "label": "Physics 30",
+        "type": "physics"
+      }
+    ],
+    "grades": {
+      "All classes listed above": 0.7
+    },
+    "other": [
+      "Must complete foundational first year of general engineering first."
+    ],
+    "sources": [
+      "https://engineering.ubc.ca/programs/undergraduate/integrated-engineering",
+      "https://you.ubc.ca/applying-ubc/requirements/canadian-high-schools/#saskatchewan"
+    ]
+  },
+  {
+    "id": "bc manufacturing engineering",
+    "name": "Manufacturing Engineering",
+    "school": "University of British Columbia",
+    "category": "Engineering/Tech",
+    "type": "Bachelor's",
+    "icon": "mechanic",
+    "classes": [
+      {
+        "label": "(Pre-)Calculus 30",
+        "type": "math"
+      },
+      {
+        "label": "ELA A30 + B30",
+        "type": "english"
+      },
+      {
+        "label": "Chemistry 30",
+        "type": "chemistry"
+      },
+      {
+        "label": "Physics 30",
+        "type": "physics"
+      }
+    ],
+    "grades": {
+      "All classes listed above": 0.7
+    },
+    "other": [
+      "Must complete foundational first year of general engineering first."
+    ],
+    "sources": [
+      "https://engineering.ubc.ca/programs/undergraduate/manufacturing-engineering",
+      "https://you.ubc.ca/applying-ubc/requirements/canadian-high-schools/#saskatchewan"
+    ]
+  },
+  {
+    "id": "bc materials engineering",
+    "name": "Materials Engineering",
+    "school": "University of British Columbia",
+    "category": "Engineering/Tech",
+    "type": "Bachelor's",
+    "icon": "mechanic",
+    "classes": [
+      {
+        "label": "(Pre-)Calculus 30",
+        "type": "math"
+      },
+      {
+        "label": "ELA A30 + B30",
+        "type": "english"
+      },
+      {
+        "label": "Chemistry 30",
+        "type": "chemistry"
+      },
+      {
+        "label": "Physics 30",
+        "type": "physics"
+      }
+    ],
+    "grades": {
+      "All classes listed above": 0.7
+    },
+    "other": [
+      "Must complete foundational first year of general engineering first."
+    ],
+    "sources": [
+      "https://engineering.ubc.ca/programs/undergraduate/materials-engineering",
+      "https://you.ubc.ca/applying-ubc/requirements/canadian-high-schools/#saskatchewan"
+    ]
+  },
+  {
+    "id": "bc mechanical engineering",
+    "name": "Mechanical Engineering",
+    "school": "University of British Columbia",
+    "category": "Engineering/Tech",
+    "type": "Bachelor's",
+    "icon": "mechanic",
+    "classes": [
+      {
+        "label": "(Pre-)Calculus 30",
+        "type": "math"
+      },
+      {
+        "label": "ELA A30 + B30",
+        "type": "english"
+      },
+      {
+        "label": "Chemistry 30",
+        "type": "chemistry"
+      },
+      {
+        "label": "Physics 30",
+        "type": "physics"
+      }
+    ],
+    "grades": {
+      "All classes listed above": 0.7
+    },
+    "other": [
+      "Must complete foundational first year of general engineering first."
+    ],
+    "sources": [
+      "https://engineering.ubc.ca/programs/undergraduate/mechanical-engineering",
+      "https://you.ubc.ca/applying-ubc/requirements/canadian-high-schools/#saskatchewan"
+    ]
+  },
+  {
+    "id": "bc mining engineering",
+    "name": "Mining Engineering",
+    "school": "University of British Columbia",
+    "category": "Engineering/Tech",
+    "type": "Bachelor's",
+    "icon": "pickaxe",
+    "classes": [
+      {
+        "label": "(Pre-)Calculus 30",
+        "type": "math"
+      },
+      {
+        "label": "ELA A30 + B30",
+        "type": "english"
+      },
+      {
+        "label": "Chemistry 30",
+        "type": "chemistry"
+      },
+      {
+        "label": "Physics 30",
+        "type": "physics"
+      }
+    ],
+    "grades": {
+      "All classes listed above": 0.7
+    },
+    "other": [
+      "Must complete foundational first year of general engineering first."
+    ],
+    "sources": [
+      "https://engineering.ubc.ca/programs/undergraduate/mining-engineering",
+      "https://you.ubc.ca/applying-ubc/requirements/canadian-high-schools/#saskatchewan"
+    ]
+  }
+]

@@ -3,6 +3,7 @@ import sask from './sask.json';
 import alberta from './alberta.json';
 import waterloo from './waterloo.json';
 import mcgill from './mcgill.json';
+import bc from './bc.json';
 
 export default [
   ...regina,
@@ -10,4 +11,5 @@ export default [
   ...alberta,
   ...waterloo,
   ...mcgill,
+  ...bc,
 ];
